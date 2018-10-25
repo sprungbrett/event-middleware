@@ -1,11 +1,10 @@
 {
     "name": "sprungbrett/event-middleware",
     "type": "library",
-    "description": "Middleware to handle events for commands/handler.",
+    "description": "Middleware to handle events for messages/handler.",
     "keywords": [
-        "tactician",
         "event",
-        "command-bus"
+        "message-bus"
     ],
     "homepage": "http://sprungbrett.io",
     "license": "MIT",
